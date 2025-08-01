@@ -1,7 +1,6 @@
 @use "../variables";
 
 body {
-  outline: 2px solid red;
   background: variables.$bodyBcgColor;
   color: variables.$whiteColor;
   font-family: Arial, Helvetica, sans-serif;
